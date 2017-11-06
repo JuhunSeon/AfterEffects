@@ -12,7 +12,7 @@ var comp = app.project.activeItem;
 var layer = comp.layers;
 var text = prompt('텍스트를 입력하십시오','','텍스트');
 
-	if(text==null){//테스트
+	if(text==null){
 
 		null;
 
